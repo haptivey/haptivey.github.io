@@ -32,20 +32,20 @@ var rules = {
     "I am an analyst without character, but don't worry, I'm not helpful."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Do computers bother you?",
+    "What do you think about machines as your problem?",
+    "Do you think computers can hurt people",
+    "Why do you mention harm?",
+    "What worries you?",
+    "What do you think?",
+    "What do you think with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am not interested",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
+    "Apologize",
+    "Apologies again.",
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
