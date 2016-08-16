@@ -204,10 +204,10 @@ var rules = {
     "Can you be more specific?",
   ],
   "~*x everyone ~*y": [
-    "Surely not everyone",
-    "Can you think of anyone in particular?",
+    "Surely not",
+    "Can you think?",
     "Who, for example?",
-    "You are thinking of a special person",
+    "You are thinking",
   ],
   "~*x always ~*y": [
     "Can you think of a specific example?",
